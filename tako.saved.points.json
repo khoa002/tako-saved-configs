@@ -2119,6 +2119,11 @@
 
 ,
 {
+    "zone_name": "Dangruf Wadi", "point_name": "yes", "x": -246.34816, "y": 4.114615, "z": 305.764526
+}
+
+,
+{
     "zone_name": "Dangruff Wadi", "point_name": "Strange Apparatus", "x": -490.4016, "y": -3.85, "z": -100.378883
 }
 
