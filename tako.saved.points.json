@@ -1610,6 +1610,20 @@
     "z": 66.8995
   },
   {
+    "zone_name": "Behemoth's Dominion",
+    "point_name": "Cermet Headstone (Lightning Fragment)",
+    "x": -74.16913,
+    "y": -4.6382885,
+    "z": -88.82959
+  },
+  {
+    "zone_name": "Behemoth's Dominion",
+    "point_name": "Qufim Island",
+    "x": 338.898834,
+    "y": 26.7563858,
+    "z": -73.6530457
+  },
+  {
     "zone_name": "Bhaflau Remnants",
     "point_name": "Door #1",
     "x": -401.9582,
@@ -1748,6 +1762,13 @@
     "x": 302.2653,
     "y": -1.943294,
     "z": 171.76564
+  },
+  {
+    "zone_name": "Bibiki Bay",
+    "point_name": "??? Warmachine",
+    "x": -347.7782,
+    "y": -3.29480338,
+    "z": -972.1758
   },
   {
     "zone_name": "Boneyard Gully",
@@ -2168,6 +2189,13 @@
     "x": -201.5897,
     "y": 0.0,
     "z": 441.2282
+  },
+  {
+    "zone_name": "Cape Teriggan",
+    "point_name": "Cloister of Gales",
+    "x": -299.328949,
+    "y": -8.316755,
+    "z": 525.4352
   },
   {
     "zone_name": "Cape Teriggan",
@@ -5096,6 +5124,13 @@
     "z": 147.745865
   },
   {
+    "zone_name": "Gustav Tunnel",
+    "point_name": "??? (Bastok, M9-1)",
+    "x": -122.331779,
+    "y": 0.5497061,
+    "z": 250.07756
+  },
+  {
     "zone_name": "Hall of the Gods",
     "point_name": "Ro'Maeve",
     "x": -0.36,
@@ -5423,6 +5458,13 @@
     "x": -99.344,
     "y": -2.585,
     "z": -16.141
+  },
+  {
+    "zone_name": "Ifrit's Cauldron",
+    "point_name": "??? (H-7)",
+    "x": 170.435715,
+    "y": 0.6816791,
+    "z": -22.9853687
   },
   {
     "zone_name": "Inner Horotoro Ruins",
@@ -5929,6 +5971,20 @@
     "z": 642.153931
   },
   {
+    "zone_name": "La Theine Plateau",
+    "point_name": "??? SMN Quest",
+    "x": -177.725815,
+    "y": 8.858541,
+    "z": 254.32933
+  },
+  {
+    "zone_name": "La Theine Plateau",
+    "point_name": "Cermet Headstone (Water Fragment)",
+    "x": -170.701035,
+    "y": 39.6713638,
+    "z": -506.090179
+  },
+  {
     "zone_name": "La Vaule [S]",
     "point_name": "Jugner Forest [S]",
     "x": 234.6294,
@@ -6004,6 +6060,13 @@
     "x": 459.6001,
     "y": 0.0,
     "z": -97.51012
+  },
+  {
+    "zone_name": "Lower Delkfutt's Tower",
+    "point_name": "Cermet Door (1st Floor, H-5)",
+    "x": 460.855652,
+    "y": 0.0,
+    "z": 128.7888
   },
   {
     "zone_name": "Lower Jeuno",
@@ -6972,6 +7035,13 @@
     "z": -19.9061871
   },
   {
+    "zone_name": "Newton Movalpolos",
+    "point_name": "Home Point #1",
+    "x": 438.137024,
+    "y": 28.125,
+    "z": -19.1340427
+  },
+  {
     "zone_name": "Norg",
     "point_name": "Sea Serpents Grotto",
     "x": 230.959991,
@@ -7469,6 +7539,13 @@
     "z": -42.14619
   },
   {
+    "zone_name": "Oldton Movalpolos",
+    "point_name": "Newton Movalpolos (J-8)",
+    "x": 63.3131027,
+    "y": 8.124349,
+    "z": 138.831161
+  },
+  {
     "zone_name": "Ordelle Caves",
     "point_name": "La Theine Plateau(F7)",
     "x": -75.38599,
@@ -7530,6 +7607,13 @@
     "x": -90.59563,
     "y": 0.4623902,
     "z": 659.0015
+  },
+  {
+    "zone_name": "Ordelle's Caves",
+    "point_name": "Strange Apparatus",
+    "x": -294.7348,
+    "y": 28.4,
+    "z": -97.01896
   },
   {
     "zone_name": "Outer Horotoro Ruins",
@@ -8295,6 +8379,41 @@
     "z": 349.0367
   },
   {
+    "zone_name": "Pso'Xja",
+    "point_name": "Elevator B (PM5-3T)",
+    "x": 299.311462,
+    "y": -0.24048233,
+    "z": -53.22838
+  },
+  {
+    "zone_name": "Pso'Xja",
+    "point_name": "Avatar Gate",
+    "x": 285.511017,
+    "y": 32.0000725,
+    "z": -60.0730438
+  },
+  {
+    "zone_name": "Pso'Xja",
+    "point_name": "Beaucedine Glacier (Exit 6)",
+    "x": 219.992,
+    "y": -8.0,
+    "z": -280.902
+  },
+  {
+    "zone_name": "Pso'Xja",
+    "point_name": "Elevator B (PM5-3T, 2nd part)",
+    "x": 139.760559,
+    "y": 15.7594986,
+    "z": -346.869415
+  },
+  {
+    "zone_name": "Pso'Xja",
+    "point_name": "Avatar Gate 2",
+    "x": 140.44136,
+    "y": 48.0000877,
+    "z": -356.849426
+  },
+  {
     "zone_name": "Pso'Xja40",
     "point_name": "Beaucedine Glacier (G8)",
     "x": -179.983414,
@@ -8461,6 +8580,20 @@
     "x": -298.004822,
     "y": -2.93870521,
     "z": 372.8788
+  },
+  {
+    "zone_name": "Quicksand Caves",
+    "point_name": "Chamber of Oracles",
+    "x": -982.777039,
+    "y": 17.25155,
+    "z": -290.199036
+  },
+  {
+    "zone_name": "Quicksand Caves",
+    "point_name": "??? (Bastok M8-1, Mural at H-8)",
+    "x": -529.739746,
+    "y": -0.5,
+    "z": -414.196442
   },
   {
     "zone_name": "Quicksand CavesF-8",
@@ -10451,6 +10584,13 @@
     "z": -146.4219
   },
   {
+    "zone_name": "The Sanctuary of Zi'Tah",
+    "point_name": "Cermet Headstone",
+    "x": 234.155441,
+    "y": 0.09101108,
+    "z": 280.039124
+  },
+  {
     "zone_name": "The Shrine of Ru'Avitau",
     "point_name": "The Celestial Nexus",
     "x": -3.38,
@@ -10771,6 +10911,27 @@
     "x": 41.21354,
     "y": -234.159149,
     "z": 310.6063
+  },
+  {
+    "zone_name": "Uleguerand Range",
+    "point_name": "Hole (J-9)",
+    "x": 377.6195,
+    "y": 1.89806414,
+    "z": -182.310516
+  },
+  {
+    "zone_name": "Uleguerand Range",
+    "point_name": "Home Point #2",
+    "x": 379.520264,
+    "y": 23.4588833,
+    "z": -63.869
+  },
+  {
+    "zone_name": "Uleguerand Range",
+    "point_name": "Home Point #5",
+    "x": -220.0,
+    "y": -1.01722574,
+    "z": -62.0
   },
   {
     "zone_name": "unknown",
@@ -11585,6 +11746,27 @@
     "z": 133.564011
   },
   {
+    "zone_name": "Western Altepa Desert",
+    "point_name": "??? (G-8)",
+    "x": -333.8278,
+    "y": 0.398327559,
+    "z": -106.020012
+  },
+  {
+    "zone_name": "Western Altepa Desert",
+    "point_name": "Quicksands Caves (G-5)",
+    "x": -319.950775,
+    "y": 10.1992188,
+    "z": 299.14563
+  },
+  {
+    "zone_name": "Western Altepa Desert",
+    "point_name": "Cerment Headstone",
+    "x": -111.66436,
+    "y": 11.0340147,
+    "z": -218.793625
+  },
+  {
     "zone_name": "Windurst Walls",
     "point_name": "Moghouse",
     "x": -257.29,
@@ -12227,6 +12409,13 @@
     "x": -406.6838,
     "y": 17.1330357,
     "z": -380.007416
+  },
+  {
+    "zone_name": "Yuhtunga Jungle",
+    "point_name": "Cermet Headstone (Fire Fragment)",
+    "x": 479.053864,
+    "y": 20.1825886,
+    "z": 297.4965
   },
   {
     "zone_name": "Zeruhn Mines",
