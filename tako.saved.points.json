@@ -413,6 +413,34 @@
     "z": -582.7319
   },
   {
+    "zone_name": "Al'Taieu",
+    "point_name": "Crystalline Field (H-11)",
+    "x": 0.438195229,
+    "y": -10.0,
+    "z": -462.299255
+  },
+  {
+    "zone_name": "Al'Taieu",
+    "point_name": "Rubious Crystal (South)",
+    "x": 0.304775774,
+    "y": -4.0064,
+    "z": -737.727356
+  },
+  {
+    "zone_name": "Al'Taieu",
+    "point_name": "Rubious Crystal (East)",
+    "x": 682.376038,
+    "y": -4.0064,
+    "z": -221.77034
+  },
+  {
+    "zone_name": "Al'Taieu",
+    "point_name": "Rubious Crystal (West)",
+    "x": -680.3984,
+    "y": -4.0064,
+    "z": -221.123627
+  },
+  {
     "zone_name": "Al'Taieu(D10)",
     "point_name": "RubiousCrystal",
     "x": -682.5885,
@@ -980,6 +1008,13 @@
     "z": 346.975555
   },
   {
+    "zone_name": "Aydeewa Subterrane",
+    "point_name": "Blank Target (ToAU M-20)",
+    "x": -299.3693,
+    "y": 36.907238,
+    "z": -41.0811119
+  },
+  {
     "zone_name": "Balga's Dais",
     "point_name": "BC Enterance",
     "x": 299.2214,
@@ -1328,6 +1363,13 @@
     "x": 172.841782,
     "y": 8.030653,
     "z": -413.174072
+  },
+  {
+    "zone_name": "Batallia Downs [S]",
+    "point_name": "Outpost",
+    "x": 224.755676,
+    "y": 8.587385,
+    "z": 48.3872452
   },
   {
     "zone_name": "Beadeaux",
@@ -1771,6 +1813,13 @@
     "z": -972.1758
   },
   {
+    "zone_name": "Bibiki Bay",
+    "point_name": "??? Dalham",
+    "x": 98.37897,
+    "y": -44.68304,
+    "z": 942.2419
+  },
+  {
     "zone_name": "Boneyard Gully",
     "point_name": "Attohwa Chasm",
     "x": -711.158936,
@@ -2163,6 +2212,20 @@
     "z": -702.5999
   },
   {
+    "zone_name": "Caedarva Mire",
+    "point_name": "Jazaraat's Headstone",
+    "x": -386.882,
+    "y": 7.91185474,
+    "z": -568.8582
+  },
+  {
+    "zone_name": "Caedarva Mire",
+    "point_name": "Arrapago Reef (F-9)",
+    "x": -737.493652,
+    "y": 14.9790611,
+    "z": -49.99702
+  },
+  {
     "zone_name": "Cape Teriggan",
     "point_name": "Valley of Sorrows",
     "x": 278.8819,
@@ -2252,6 +2315,20 @@
     "x": -300.53,
     "y": -7.54,
     "z": 512.77
+  },
+  {
+    "zone_name": "Carpenters' Landing",
+    "point_name": "Jugner Forest (South, I-12)",
+    "x": 20.6037846,
+    "y": -4.86454344,
+    "z": -783.107361
+  },
+  {
+    "zone_name": "Carpenters' Landing",
+    "point_name": "??? (PM7-4 Fight)",
+    "x": 118.462173,
+    "y": -4.970999,
+    "z": -394.177155
   },
   {
     "zone_name": "Carpenter's Landing",
@@ -6573,6 +6650,20 @@
     "z": 739.7203
   },
   {
+    "zone_name": "Misareaux Coast",
+    "point_name": "Dilapidated Gate (F-7)",
+    "x": -259.733337,
+    "y": -30.1042919,
+    "z": 277.218781
+  },
+  {
+    "zone_name": "Misareaux Coast",
+    "point_name": "Near Storage Compartment (E-7)",
+    "x": -299.0545,
+    "y": -31.1347961,
+    "z": 195.888687
+  },
+  {
     "zone_name": "Moh Gates",
     "point_name": "Ergon Lotus",
     "x": 448.256,
@@ -7169,13 +7260,6 @@
   },
   {
     "zone_name": "North Gustaberg [S]",
-    "point_name": "Maat",
-    "x": 300.09613,
-    "y": -62.05,
-    "z": 502.182678
-  },
-  {
-    "zone_name": "North Gustaberg [S]",
     "point_name": "Gebhardt",
     "x": 206.57164,
     "y": -20.8770523,
@@ -7201,6 +7285,20 @@
     "x": -516.7648,
     "y": 38.9948845,
     "z": 579.0939
+  },
+  {
+    "zone_name": "North Gustaberg [S]",
+    "point_name": "Maat/Monument",
+    "x": 299.9306,
+    "y": -62.3,
+    "z": 501.4029
+  },
+  {
+    "zone_name": "North Gustaberg [S]",
+    "point_name": "Stonehouse Adit",
+    "x": -437.792084,
+    "y": 38.1635,
+    "z": 279.932281
   },
   {
     "zone_name": "North GustabergK-6(East)",
@@ -10540,6 +10638,41 @@
     "x": -520.0,
     "y": 5.0,
     "z": -525.0
+  },
+  {
+    "zone_name": "The Garden of Ru'Hmet",
+    "point_name": "Ebon Panel (Hume)",
+    "x": 423.3622,
+    "y": -4.1,
+    "z": -101.219948
+  },
+  {
+    "zone_name": "The Garden of Ru'Hmet",
+    "point_name": "Main Elevantor",
+    "x": -419.879547,
+    "y": -2.0,
+    "z": -424.206268
+  },
+  {
+    "zone_name": "The Garden of Ru'Hmet",
+    "point_name": "Twilight Door",
+    "x": -420.328247,
+    "y": 0.0,
+    "z": -556.3293
+  },
+  {
+    "zone_name": "The Garden of Ru'Hmet",
+    "point_name": "Dawn Door",
+    "x": -419.807922,
+    "y": 0.0,
+    "z": -283.282684
+  },
+  {
+    "zone_name": "The Garden of Ru'Hmet",
+    "point_name": "Main Elevator (HP)",
+    "x": -423.124847,
+    "y": 0.0,
+    "z": 368.051849
   },
   {
     "zone_name": "The Sanctuary of Zi'Tah",
